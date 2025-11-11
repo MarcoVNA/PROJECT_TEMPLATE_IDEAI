@@ -1,0 +1,31 @@
+CorrelationId: 2b8b4f9e-9e56-4daf-abf1-65271be82beb
+UTC DateTime: 11/11/2025 16:37:06
+
+The following files/folders have not been downloaded
+0. CLIENT_TEMPLATE/communications/attachments/.keep
+1. CLIENT_TEMPLATE/communications/incoming/.keep
+2. CLIENT_TEMPLATE/communications/outbound/proposals/.keep
+3. CLIENT_TEMPLATE/discovery/session_notes/.keep
+4. CLIENT_TEMPLATE/legal/.keep
+5. CLIENT_TEMPLATE/legal/change_orders/.keep
+6. CLIENT_TEMPLATE/legal/msas/.keep
+7. CLIENT_TEMPLATE/legal/ndas/.keep
+8. CLIENT_TEMPLATE/legal/procurement/.keep
+9. CLIENT_TEMPLATE/legal/signatures/.keep
+10. CLIENT_TEMPLATE/legal/sow/.keep
+11. CLIENT_TEMPLATE/legal/templates/.keep
+12. CLIENT_TEMPLATE/legal/templates/clauses/.keep
+13. CLIENT_TEMPLATE/sow_projects/project_1/code/configuration/.keep
+14. CLIENT_TEMPLATE/sow_projects/project_1/code/exports/.keep
+15. CLIENT_TEMPLATE/sow_projects/project_1/code/scripts/.keep
+16. CLIENT_TEMPLATE/sow_projects/project_1/deliverables/documentation/.keep
+17. CLIENT_TEMPLATE/sow_projects/project_1/deliverables/presentations/.keep
+18. CLIENT_TEMPLATE/sow_projects/project_1/deliverables/training-materials/.keep
+19. CLIENT_TEMPLATE/sow_projects/project_1/deliverables/user-guides/.keep
+20. CLIENT_TEMPLATE/sow_projects/project_1/exec_status/.keep
+21. CLIENT_TEMPLATE/sow_projects/project_1/tickets/snapshots/.keep
+22. CLIENT_TEMPLATE/sow_projects/project_1/timesheets/daily/.keep
+23. CLIENT_TEMPLATE/sow_projects/project_1/timesheets/monthly/.keep
+24. CLIENT_TEMPLATE/sow_projects/project_1/timesheets/people/.keep
+25. jason_review.md
+26. marco_reveiw.md
