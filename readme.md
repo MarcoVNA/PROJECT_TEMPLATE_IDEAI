@@ -6,6 +6,32 @@
 
 **Core Philosophy**: *Strategy as Code | Project Management as Code | Delivery as Code*
 
+## 📋 Using This GitHub Template
+
+### For Template Users
+
+1. Click the **"Use this template"** button at the top of this repository
+2. Choose a name for your new repository
+3. Select whether it should be public or private
+4. Click **"Create repository from template"**
+5. Clone your new repository and start customizing!
+
+### What Gets Copied
+
+✅ **Included in template:**
+- All project structure and folders
+- Documentation and markdown files  
+- GitHub Actions workflows
+- Issue and PR templates
+- .gitignore configurations
+- LICENSE file
+
+❌ **Not included:**
+- Issues and Pull Requests
+- Wiki pages
+- Repository settings
+- Stars, watchers, or forks
+
 ## 🚀 Quick Start
 
 ### Create a New Client Project
