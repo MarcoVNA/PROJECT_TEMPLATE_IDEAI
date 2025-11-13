@@ -12,6 +12,20 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    - name: Debug Repository Content
+      run: |
+        echo "=== Repository root contents ==="
+        ls -la
+        echo ""
+        echo "=== Git status ==="
+        git status
+        echo ""
+        echo "=== CLIENT_TEMPLATE contents ==="
+        ls -la CLIENT_TEMPLATE/ || echo "CLIENT_TEMPLATE not found"
+        echo ""
     
     - name: Validate Template Structure
       run: |
