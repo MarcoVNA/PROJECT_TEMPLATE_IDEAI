@@ -25,10 +25,13 @@ jobs:
     - name: Check Required Files
       run: |
         echo "Checking required files..."
+        echo "Current directory: $(pwd)"
+        echo "Contents of CLIENT_TEMPLATE:"
+        ls -la CLIENT_TEMPLATE/ || echo "CLIENT_TEMPLATE directory not found"
         test -f "README.md" && echo "✓ README.md exists" || exit 1
         test -f "LICENSE" && echo "✓ LICENSE exists" || exit 1
         test -f ".gitignore" && echo "✓ .gitignore exists" || exit 1
-        test -f "CLIENT_TEMPLATE/README.md" && echo "✓ CLIENT_TEMPLATE/README.md exists" || exit 1
+        test -f "CLIENT_TEMPLATE/README.md" && echo "✓ CLIENT_TEMPLATE/README.md exists" || (echo "❌ CLIENT_TEMPLATE/README.md NOT FOUND" && exit 1)
         
     - name: Validate Markdown Files
       run: |
